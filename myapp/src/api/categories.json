@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "title": "Hatay Döner",
+      "image": "https://images.deliveryhero.io/image/fd-tr/LH/subg-listing.jpg?width=400&height=292"
+    },
+    {
+      "id": 2,
+      "title": "Reyhan Pastanesi",
+      "explanation":"Ad Demo",
+      "image": "https://images.deliveryhero.io/image/fd-tr/LH/mmv7-listing.jpg?width=400&height=292"
+    },
+    {
+      "id": 3,
+      "title": "Coffeemaina",
+      "explanation":"",
+      "image": "http://cdn.getir.com/cat/551430043427d5010a3a5c5e_1619242669958_1619242670038.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Manav",
+      "explanation":"",
+      "image": "http://cdn.getir.com/cat/5928113e616cab00041ec6de_1619242870968_1619242871055.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Hamburgerci",
+      "explanation":"",
+      "image": "https://images.deliveryhero.io/image/fd-tr/LH/so71-listing.jpg?width=400&height=292"
+    },
+    {
+      "id": 1,
+      "title": "Hatay Döner",
+      "image": "https://images.deliveryhero.io/image/fd-tr/LH/subg-listing.jpg?width=400&height=292"
+    },
+    {
+      "id": 2,
+      "title": "Reyhan Pastanesi",
+      "explanation":"Ad Demo",
+      "image": "https://images.deliveryhero.io/image/fd-tr/LH/mmv7-listing.jpg?width=400&height=292"
+    },
+    {
+      "id": 3,
+      "title": "Coffeemaina",
+      "explanation":"",
+      "image": "http://cdn.getir.com/cat/551430043427d5010a3a5c5e_1619242669958_1619242670038.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Manav",
+      "explanation":"",
+      "image": "http://cdn.getir.com/cat/5928113e616cab00041ec6de_1619242870968_1619242871055.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Hamburgerci",
+      "explanation":"",
+      "image": "https://images.deliveryhero.io/image/fd-tr/LH/so71-listing.jpg?width=400&height=292"
+    }
+    
+  ]
